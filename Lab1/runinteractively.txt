@@ -1,0 +1,2 @@
+Try this link for interactively viewing the notebook in the browser. 
+https://mybinder.org/v2/gh/irinaciortan/IMT3017/6f544017dc3f63df08b12dbf31165e6a2a788b85
